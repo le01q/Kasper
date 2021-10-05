@@ -1,0 +1,13 @@
+Hola, si estás leyendo esto hagas lo que hagas tienes que estar totalmente seguro de utilizar este programa
+Está catalogado como un malware o ransomware y puede dañar tu computadora y quedar inestable totalmente.
+
+> Kasper detalles:
+    ; Version: 1.1
+    ; Alias: Kasper.vbs, Kasper.exe, Kasper.win.dat
+    ; Nivel de peligro: ALTO
+
+El desarrollador o creador de este programa no se hará responsable del mal uso propio de este por lo tanto...
+
+                ES SU RESPONSABILIDAD!
+
+Atte: leo1q
